@@ -1,0 +1,6 @@
+# Adding Common library as a submodule
+```
+git submodule add git@github.com:mradamcollins/AC-kicad-library.git 
+```
+
+Then add AC-kicad-libarry as a project specific library in Kicad manage libraries tab
