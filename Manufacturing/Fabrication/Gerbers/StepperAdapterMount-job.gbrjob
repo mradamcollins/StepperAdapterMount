@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "8.0.6"
     },
-    "CreationDate": "2024-12-13T22:42:48+00:00"
+    "CreationDate": "2024-12-16T09:55:53+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -79,11 +79,6 @@
     {
       "Path": "StepperAdapterMount-Edge_Cuts.gbr",
       "FileFunction": "Profile",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "StepperAdapterMount-User_2.gbr",
-      "FileFunction": "Other,User",
       "FilePolarity": "Positive"
     }
   ],
