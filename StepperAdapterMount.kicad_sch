@@ -330,6 +330,322 @@
 				)
 			)
 		)
+		(symbol "AC-kicad-library:StepperMotor_8mm_i500212644"
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "M"
+				(at 3.81 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "StepperMotor_8mm_i500212644"
+				(at 3.81 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "AC-kicad-library:StepperMotor_8mm_i500212644"
+				(at 0.254 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.aliexpress.com/item/1005006449212337.html"
+				(at 2.54 -11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mini 2-Phase 4-Wire Stepper Motor Miniature Stepper with Gear Small Tiny Mini Motor Toy Engine"
+				(at 1.524 -8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "bipolar stepper motor mini"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "PinHeader*P2.54mm*Vertical* TerminalBlock* Motor* Stepper*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "StepperMotor_8mm_i500212644_0_0"
+				(polyline
+					(pts
+						(xy -1.27 -1.778) (xy -1.27 2.032) (xy 0 -0.508) (xy 1.27 2.032) (xy 1.27 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "StepperMotor_8mm_i500212644_0_1"
+				(arc
+					(start -4.445 -2.54)
+					(mid -3.8127 -1.905)
+					(end -4.445 -1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -4.445 -1.27)
+					(mid -3.8127 -0.635)
+					(end -4.445 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -4.445 0)
+					(mid -3.8127 0.635)
+					(end -4.445 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -4.445 1.27)
+					(mid -3.8127 1.905)
+					(end -4.445 2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.54 4.445)
+					(mid -1.905 3.8127)
+					(end -1.27 4.445)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -1.27 4.445)
+					(mid -0.635 3.8127)
+					(end 0 4.445)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 -2.54) (xy -4.445 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 2.54) (xy -4.445 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 5.08) (xy -2.54 4.445)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 5.08) (xy 2.54 4.445)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 3.2512)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 4.445)
+					(mid 0.635 3.8127)
+					(end 1.27 4.445)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.27 4.445)
+					(mid 1.905 3.8127)
+					(end 2.54 4.445)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "StepperMotor_8mm_i500212644_1_1"
+				(pin passive line
+					(at -2.54 7.62 270)
+					(length 2.54)
+					(name "A+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 7.62 270)
+					(length 2.54)
+					(name "A-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "B+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -2.54 0)
+					(length 2.54)
+					(name "B-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector_Generic:Conn_01x04"
 			(pin_names
 				(offset 1.016) hide)
@@ -527,316 +843,372 @@
 				)
 			)
 		)
-		(symbol "Mechanical:MountingHole_Pad"
-			(pin_numbers hide)
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim yes)
-			(in_bom no)
-			(on_board yes)
-			(property "Reference" "H"
-				(at 0 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "MountingHole_Pad"
-				(at 0 4.445 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Mounting Hole with connection"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "mounting hole"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "MountingHole*Pad*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "MountingHole_Pad_0_1"
-				(circle
-					(center 0 1.27)
-					(radius 1.27)
-					(stroke
-						(width 1.27)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "MountingHole_Pad_1_1"
-				(pin input line
-					(at 0 -2.54 90)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "power:Earth"
-			(power)
-			(pin_numbers hide)
-			(pin_names
-				(offset 0) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "Earth"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"Earth\""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global ground gnd"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Earth_0_1"
-				(polyline
-					(pts
-						(xy -0.635 -1.905) (xy 0.635 -1.905)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.127 -2.54) (xy 0.127 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy -1.27 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Earth_1_1"
-				(pin power_in line
-					(at 0 0 270)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-	)
-	(junction
-		(at 149.86 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "691694ed-e6bd-4620-974b-bf66cb12fcd6")
 	)
 	(wire
 		(pts
-			(xy 149.86 129.54) (xy 143.51 129.54)
+			(xy 130.81 101.6) (xy 130.81 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3d1d86b1-382d-4084-bd89-6aba0bf6c233")
+		(uuid "08c9843e-0a97-4eb2-bf6a-306ef8a2860c")
 	)
 	(wire
 		(pts
-			(xy 149.86 119.38) (xy 143.51 119.38)
+			(xy 129.54 36.83) (xy 129.54 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "43396cab-f3e3-4e54-8124-e99024961156")
+		(uuid "1dcafdd0-dd34-4551-ab92-8aff514c75b3")
 	)
 	(wire
 		(pts
-			(xy 149.86 129.54) (xy 149.86 139.7)
+			(xy 137.16 96.52) (xy 137.16 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d1d33e56-db2d-4b1c-8974-727754f1247a")
+		(uuid "1e500e2d-613c-45d2-be8b-c4cadb99a4b6")
 	)
 	(wire
 		(pts
-			(xy 149.86 119.38) (xy 149.86 129.54)
+			(xy 120.65 49.53) (xy 125.73 49.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f40df5e1-ea66-46b7-a389-799137434478")
+		(uuid "23389d61-7b97-4c65-8e7b-4476f3d4d954")
+	)
+	(wire
+		(pts
+			(xy 135.89 41.91) (xy 135.89 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c226ca6-8290-4b11-b2aa-7142bffe59d7")
+	)
+	(wire
+		(pts
+			(xy 129.54 64.77) (xy 129.54 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31ea0ed6-b7a5-42db-a8d9-12485eaf0c22")
+	)
+	(wire
+		(pts
+			(xy 130.81 41.91) (xy 130.81 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48627647-8c11-4e61-875c-b0e524d6f237")
+	)
+	(wire
+		(pts
+			(xy 137.16 64.77) (xy 137.16 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f94f43d-fd4e-414c-8286-7504f0127bbd")
+	)
+	(wire
+		(pts
+			(xy 129.54 96.52) (xy 129.54 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56f808ad-3131-4315-8ffd-0cae2678bf19")
+	)
+	(wire
+		(pts
+			(xy 137.16 124.46) (xy 137.16 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "747359d7-d859-400e-b7eb-46a5dc6bc5b8")
+	)
+	(wire
+		(pts
+			(xy 137.16 36.83) (xy 137.16 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8880af6f-5f8d-4470-8449-fb764aea82e6")
+	)
+	(wire
+		(pts
+			(xy 135.89 101.6) (xy 135.89 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f95318c-d98d-492c-86f8-9d7268ae555a")
+	)
+	(wire
+		(pts
+			(xy 120.65 109.22) (xy 125.73 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2301319-0135-4e36-bc68-c8ee3caa52f9")
+	)
+	(wire
+		(pts
+			(xy 120.65 54.61) (xy 125.73 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3c3f72d-50f4-4998-a786-5ba9b557480f")
+	)
+	(wire
+		(pts
+			(xy 129.54 124.46) (xy 129.54 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f658c18f-da9b-4668-8b20-d6b801cfa72a")
+	)
+	(wire
+		(pts
+			(xy 120.65 114.3) (xy 125.73 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc284a5c-59c5-4e10-a1bd-6ff145b86525")
+	)
+	(label "A2+"
+		(at 130.81 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "07353049-f07c-471d-a14e-a5e2a4a7c8e8")
+	)
+	(label "B2-"
+		(at 120.65 114.3 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "093c3ac4-4838-40f0-8c7a-9018d848bf8e")
+	)
+	(label "B1-"
+		(at 120.65 54.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "27103661-c320-4688-996c-4cfad9a6e52f")
+	)
+	(label "B1+"
+		(at 120.65 49.53 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "31c37e3c-60c5-48d2-8807-88db08685983")
+	)
+	(label "B1+"
+		(at 129.54 36.83 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5f22e4a3-4c3e-4a56-a3c1-c2eca5d1d4ee")
+	)
+	(label "A1-"
+		(at 137.16 60.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "681acd04-a5d0-485d-af16-61a7a9724336")
+	)
+	(label "B2-"
+		(at 129.54 120.65 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "78964d27-46ba-4e6d-b46a-a79dfb2a0a5a")
+	)
+	(label "A2+"
+		(at 137.16 96.52 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7d7f1fe2-5343-4789-9abf-8a32dc5ba157")
+	)
+	(label "A1+"
+		(at 130.81 41.91 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "81cf30c4-3c2b-49bf-b6b9-56b5b88e22f7")
+	)
+	(label "B1-"
+		(at 129.54 60.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "85385bca-c688-402e-bb7f-deb7d39bb40c")
+	)
+	(label "A2-"
+		(at 135.89 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cdcd34d3-7444-4e85-81d9-4b629e4b632a")
+	)
+	(label "A1+"
+		(at 137.16 36.83 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cf105f64-90bc-421e-ba1c-5756512f2511")
+	)
+	(label "A2-"
+		(at 137.16 120.65 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d346b825-1535-4e1f-a867-70293ac8c360")
+	)
+	(label "B2+"
+		(at 129.54 96.52 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e70d78e7-a88c-409d-bd67-d75e0a90ae1d")
+	)
+	(label "A1-"
+		(at 135.89 41.91 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f374aa21-721e-4fe2-a774-e45db9d896ac")
+	)
+	(label "B2+"
+		(at 120.65 109.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fdd6bfe4-a374-4b28-82a8-bc687c64a896")
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 140.97 119.38 90)
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 134.62 27.94 270)
+		(mirror x)
 		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
+		(exclude_from_sim no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "27ba466f-de9a-4d99-a177-51cc1b2a61b5")
-		(property "Reference" "H1"
-			(at 139.7 113.03 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "M2 MountingHole"
-			(at 139.7 115.57 90)
+		(uuid "09239b5e-aed8-443b-a1b1-3fe6be28f5ea")
+		(property "Reference" "J1"
+			(at 133.35 21.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad"
-			(at 140.97 119.38 0)
+		(property "Value" "Conn_01x04"
+			(at 133.35 24.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 134.62 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -845,7 +1217,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 119.38 0)
+			(at 134.62 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -853,8 +1225,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Mounting Hole with connection"
-			(at 140.97 119.38 0)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 134.62 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -862,31 +1234,22 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" ""
-			(at 140.97 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
+		(pin "4"
+			(uuid "ad4cf6c1-3e51-45ea-952c-af84013e2db5")
 		)
-		(property "Tolerance" ""
-			(at 140.97 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
+		(pin "3"
+			(uuid "424d7a18-8b5d-4ddc-b517-94a387dbb518")
+		)
+		(pin "2"
+			(uuid "13923a8c-9084-4291-b8b4-dc308e4bfabc")
 		)
 		(pin "1"
-			(uuid "f03b77d7-f520-4697-841b-e5726535e2a1")
+			(uuid "e016a19b-d311-429d-a0db-a1e4a8159c6e")
 		)
 		(instances
 			(project "StepperAdapterMount"
 				(path "/e7c24600-e1d4-4e1e-8b2a-6e1d00e73a4d"
-					(reference "H1")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -894,7 +1257,7 @@
 	)
 	(symbol
 		(lib_id "AC-kicad-library:StepperMotor_4.7mm_Sanyo_ultra-mini")
-		(at 148.59 99.06 0)
+		(at 133.35 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -903,7 +1266,7 @@
 		(fields_autoplaced yes)
 		(uuid "29baf988-774f-4735-ae34-01b6f12a3a65")
 		(property "Reference" "M1"
-			(at 153.67 96.939 0)
+			(at 138.43 49.949 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -912,7 +1275,7 @@
 			)
 		)
 		(property "Value" "StepperMotor_4.7mm_Sanyo_ultra-mini"
-			(at 153.67 99.479 0)
+			(at 138.43 52.489 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -921,7 +1284,7 @@
 			)
 		)
 		(property "Footprint" "AC-kicad-library:StepperMotor_4.7mm_Sanyo_ultra-mini"
-			(at 148.844 105.41 0)
+			(at 133.604 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -930,7 +1293,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.aliexpress.com/item/1005005998173233.html"
-			(at 148.844 99.314 0)
+			(at 133.604 52.324 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -939,7 +1302,7 @@
 			)
 		)
 		(property "Description" "StepperMotor_4.7mm_Sanyo_ultra-mini 4-wire bipolar stepper motor"
-			(at 150.114 107.95 0)
+			(at 134.874 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -969,18 +1332,92 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x04")
-		(at 102.87 96.52 0)
-		(mirror y)
+		(lib_id "AC-kicad-library:StepperMotor_8mm_i500212644")
+		(at 133.35 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "8b1fa4e4-3a18-482a-b208-01b80b5830b4")
-		(property "Reference" "J1"
-			(at 102.87 87.63 0)
+		(uuid "8603a4d7-52cb-47de-898b-7008805917a5")
+		(property "Reference" "M2"
+			(at 138.43 109.639 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "StepperMotor_8mm_i500212644"
+			(at 138.43 112.179 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "AC-kicad-library:StepperMotor_8mm_i500212644"
+			(at 133.604 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.aliexpress.com/item/1005006449212337.html"
+			(at 135.89 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mini 2-Phase 4-Wire Stepper Motor Miniature Stepper with Gear Small Tiny Mini Motor Toy Engine"
+			(at 134.874 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f4077d6a-4c5c-411f-ae89-e42722b4eb72")
+		)
+		(pin "1"
+			(uuid "a5562719-f29a-4504-a165-f8afb84c0266")
+		)
+		(pin "3"
+			(uuid "48a10dfd-dbe5-48e8-9980-34bb3484d052")
+		)
+		(pin "4"
+			(uuid "e5ab64ba-3b57-4446-850f-00ceff3cbbca")
+		)
+		(instances
+			(project ""
+				(path "/e7c24600-e1d4-4e1e-8b2a-6e1d00e73a4d"
+					(reference "M2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 134.62 69.85 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9abb08eb-af71-450e-9cc9-6fda22247b86")
+		(property "Reference" "J2"
+			(at 133.35 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -988,15 +1425,15 @@
 			)
 		)
 		(property "Value" "Conn_01x04"
-			(at 102.87 90.17 0)
+			(at 133.35 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_PicoBlade_53261-0471_1x04-1MP_P1.25mm_Horizontal"
-			(at 102.87 96.52 0)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 134.62 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1005,7 +1442,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 102.87 96.52 0)
+			(at 134.62 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1014,7 +1451,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 102.87 96.52 0)
+			(at 134.62 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1023,55 +1460,53 @@
 			)
 		)
 		(pin "4"
-			(uuid "958463d0-d373-4b42-b0c6-11a6cfb8e821")
+			(uuid "457d69aa-8c3d-4902-9c3a-0512913836b5")
 		)
 		(pin "3"
-			(uuid "5503b21e-4181-4a72-9366-b58ef7fab360")
+			(uuid "93095d7e-d0e8-45c0-b78d-3d2c3bff29c1")
 		)
 		(pin "2"
-			(uuid "4433ac3a-ec5c-4f1a-b830-4021dc5eb73d")
+			(uuid "1e31fd91-3244-41bf-8805-2959a8d94043")
 		)
 		(pin "1"
-			(uuid "1662dd9d-008b-4cae-82f6-f80869f29ec8")
+			(uuid "bb1b5f73-a10e-440a-ae93-7a123a7d67ee")
 		)
 		(instances
-			(project ""
+			(project "StepperAdapterMount"
 				(path "/e7c24600-e1d4-4e1e-8b2a-6e1d00e73a4d"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 140.97 129.54 90)
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 134.62 129.54 270)
 		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
+		(exclude_from_sim no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a68b86a2-e1a0-4dd4-95e6-2126f0c2e03d")
-		(property "Reference" "H2"
-			(at 139.7 123.19 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "M2 MountingHole"
-			(at 139.7 125.73 90)
+		(uuid "aaeb5d94-9c67-48c7-880d-982b44350c66")
+		(property "Reference" "J4"
+			(at 133.35 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad"
-			(at 140.97 129.54 0)
+		(property "Value" "Conn_01x04"
+			(at 133.35 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 134.62 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1080,7 +1515,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 129.54 0)
+			(at 134.62 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1088,8 +1523,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Mounting Hole with connection"
-			(at 140.97 129.54 0)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 134.62 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1097,66 +1532,56 @@
 				(hide yes)
 			)
 		)
-		(property "Notes" ""
-			(at 140.97 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
+		(pin "4"
+			(uuid "31743702-eb50-4071-aefc-c1ce14f47065")
 		)
-		(property "Tolerance" ""
-			(at 140.97 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
+		(pin "3"
+			(uuid "6679be44-cbdf-4a93-b33c-1f83042b67aa")
+		)
+		(pin "2"
+			(uuid "8bc23846-8c20-420f-8285-d49af06f8109")
 		)
 		(pin "1"
-			(uuid "5ded852b-be59-4910-b387-d728ccfc18da")
+			(uuid "a3fcd42d-4350-4d20-abf2-c1605ab86c32")
 		)
 		(instances
-			(project ""
+			(project "StepperAdapterMount"
 				(path "/e7c24600-e1d4-4e1e-8b2a-6e1d00e73a4d"
-					(reference "H2")
+					(reference "J4")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:Earth")
-		(at 149.86 139.7 0)
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 134.62 87.63 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "bfac11ca-2ab9-49ab-a8ea-95eca797dc57")
-		(property "Reference" "#PWR01"
-			(at 149.86 146.05 0)
+		(uuid "f9ddaa87-0507-434f-97b0-f386a7def49e")
+		(property "Reference" "J3"
+			(at 133.35 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
-		(property "Value" "Earth"
-			(at 149.86 144.78 0)
+		(property "Value" "Conn_01x04"
+			(at 133.35 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
-		(property "Footprint" ""
-			(at 149.86 139.7 0)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 134.62 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1165,7 +1590,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 149.86 139.7 0)
+			(at 134.62 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1173,22 +1598,31 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 149.86 139.7 0)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 134.62 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
+		)
+		(pin "4"
+			(uuid "191ae2f7-f752-4254-b266-d2dc521caf80")
+		)
+		(pin "3"
+			(uuid "cd2b070a-75ab-4e6b-8145-947e7f07aa39")
+		)
+		(pin "2"
+			(uuid "1b14822f-7abc-4856-ac59-759b5b9f0590")
 		)
 		(pin "1"
-			(uuid "f570b423-035a-4831-90e5-1dd0bc13d80e")
+			(uuid "78385790-e1aa-453a-b96b-a9809d176d9f")
 		)
 		(instances
-			(project ""
+			(project "StepperAdapterMount"
 				(path "/e7c24600-e1d4-4e1e-8b2a-6e1d00e73a4d"
-					(reference "#PWR01")
+					(reference "J3")
 					(unit 1)
 				)
 			)
